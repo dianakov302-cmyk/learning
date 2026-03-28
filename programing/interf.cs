@@ -46,4 +46,4 @@ class Checkout
         _payment.Pay(amount);
     }
 }
-// 2 приклад
+
