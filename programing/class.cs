@@ -46,9 +46,8 @@ namespace OneInterfaceManyClasses
     }
 
 
-    // ===============================
+    
     // КЛАС, ЯКИЙ НЕ ЗНАЄ РЕАЛІЗАЦІЮ
-    // ===============================
     class OrderService
     {
         private readonly IDelivery _delivery;
